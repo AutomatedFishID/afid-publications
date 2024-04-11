@@ -1,0 +1,5 @@
+app:
+  url : "https://app.afid.io/api/v1/event-measure/export-annotations/"
+
+dev::
+  url : "https://dev.afid.io/api/v1/event-measure/export-annotations/"
